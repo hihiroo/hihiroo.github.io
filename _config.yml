@@ -28,7 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  "안녕하세요. 한양대학교ERICA 컴퓨터전공 19학번 신민경입니다!".
+  "안녕하세요. 한양대학교ERICA 컴퓨터전공 19학번 신민경입니다.".
 
 # A list of keywords for your blog
 keywords:              []
@@ -47,7 +47,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             hihiroo
+  - title:             신민경
     url:               /hihiroo/
   - title:             Hyde
     url:               /hyde/

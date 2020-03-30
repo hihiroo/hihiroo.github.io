@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 신민경
+title: This is me
 slug: MINKYEONG SHIN
 menu: true
 order: 1

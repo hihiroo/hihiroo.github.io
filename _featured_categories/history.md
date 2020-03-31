@@ -3,8 +3,9 @@ layout: list
 title: History
 slug: history
 menu: true
-order: 2
+order: 1
 ---
+
 ## 2020년
 >**2020.02** 한양대학교 ERICA 알고리즘 학회 0&1 학술부장
 

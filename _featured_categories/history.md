@@ -24,7 +24,7 @@ order: 1
 >
 >**2019.11** 　The 2019 ICPC Asia Seoul Regional Contes 47등
 >
->**2019.12** 　ERICA 알고리즘 학회 0&1주최 프로그래밍 대회 ZOAC 우수상
+>**2019.12** 　ERICA 알고리즘 학회 0&1 프로그래밍 대회 ZOAC 우수상
 
 
 

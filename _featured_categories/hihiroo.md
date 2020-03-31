@@ -4,7 +4,7 @@ title: This is me
 slug: MINKYEONG SHIN
 menu: true
 order: 1
-
+image: /assets/img/blog/me1.jpg
 ---
 >* 이름 : 신민경  
 >

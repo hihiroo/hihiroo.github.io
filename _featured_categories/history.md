@@ -18,7 +18,7 @@ order: 1
 >
 >**2019.07** 　경인지역 6개대학 연합 프로그래밍 경시대회 shake! 21위
 >
->**2019.08** 　Baekjoon Online Judge 1000문제 달성
+>**2019.08** 　[Baekjoon Online Judge](https://www.acmicpc.net/) 1000문제 달성
 >
 >**2019.10** 　ACM-ICPC 본선 진출
 >

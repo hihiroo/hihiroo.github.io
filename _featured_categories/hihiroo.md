@@ -16,8 +16,8 @@ order: 1
 >
 > 메일 : alsrud606@hanyang.ac.kr  
 >
-> github ID : hihiroo  
+> [github](https://github.com/hihiroo) ID : hihiroo  
 >
-> Baekjoon ID : mksmk606  
+> [Baekjoon](https://www.acmicpc.net/) ID: mksmk606  
 >
-> codeforce ID : mksmk606
+> [codeforce](https://codeforces.com/) ID : mksmk606

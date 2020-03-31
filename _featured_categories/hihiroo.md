@@ -18,6 +18,6 @@ order: 1
 >
 > [github](https://github.com/hihiroo) ID : hihiroo  
 >
-> [Baekjoon](https://https://www.acmicpc.net/user/mksmk606) ID: mksmk606  
+> [Baekjoon](https://https://www.acmicpc.net) ID: mksmk606  
 >
 > [codeforce](https://codeforces.com/profile/mksmk606) ID : mksmk606

@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Hyde
-slug: hyde
+title: History
+slug: history
 menu: true
 order: 2
 description: >

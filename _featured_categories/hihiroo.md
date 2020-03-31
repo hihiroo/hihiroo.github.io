@@ -21,4 +21,3 @@ order: 1
 > **Baekjoon ID** :　mksmk606  
 >
 > **codeforce ID** :　mksmk606
-

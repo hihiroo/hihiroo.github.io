@@ -2,7 +2,7 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              MINKYEONG SHIN
+  name:              hihiroo
   email:             alsrud606@hanyang.ac.kr
 
   # Used at the bottom of each page and at the top of the `about` layout
@@ -33,7 +33,7 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    twitter:         <username>
+    twitter:         hihiroo
     github:          hihiroo
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
@@ -83,8 +83,8 @@ author2:
 
     Open `_data/authors.yml` to edit this text.
   picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+  twitter:           hihiroo
+  github:            hhiroo
   accent_color:      '#268bd2'
   accent_image:
     background:      '#202020'

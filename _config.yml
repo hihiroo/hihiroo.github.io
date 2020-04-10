@@ -40,11 +40,11 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                MINKYEONG SHIN
+  name:                hihiroo
   email:               alsrud606@hanyang.ac.kr
   # Used by `jekyll-seo-tag`:
   social: 
-    twitter:             <username>
+    twitter: hihiroo
     github: hihiroo
 
 # Add links to the sidebar.
@@ -300,9 +300,9 @@ plugins:
 
 # Used on index and about sites
  social:
-   name:                MINKYEONG SHIN
+   name: hihiroo
    links: 
-   - https://twitter.com/<username>
+   - https://twitter.com/hihiroo
    - https://github.com/hihiroo
 
 

@@ -10,7 +10,7 @@
       {% include components/social-list-item.html platform="twitter" username=twitter_username %}
     {% endif %}
 
-    {% assign github_username = hihiroo %}
+    {% assign github_username = author.github.username | default: author.github | default:site.github.username | default:site.github | default:site.github_username %}
     {% if github_username %}
       {% include components/social-list-item.html platform="github" username=github_username %}
     {% endif %}

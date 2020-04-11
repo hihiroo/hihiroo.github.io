@@ -299,11 +299,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
- social:
-   name: hihiroo
-   links: 
-   - https://twitter.com/hihiroo
-   - https://github.com/hihiroo
+# social:
+#   name: hihiroo
+#   links: 
+#   - https://twitter.com/hihiroo
+#   - https://github.com/hihiroo
 
 
 # Other Plugins

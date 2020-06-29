@@ -1,7 +1,8 @@
 
 # 🚩 C++ 팁 목록 (6)
 
-##  cin, cout 
+##  [cin, cout](../cin.md)
+> ##### cin, cout 입출력 속도 
  
 ##  Vector 
  

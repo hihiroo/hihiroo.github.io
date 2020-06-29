@@ -1,14 +1,13 @@
 
-# 🚩 C++ 팁 목록 (6)
+# <center> 🚩 C++ 팁 목록 (6) </center>
 
-> 1. cin, cout
-> 
-> 2. vector
-> 
-> 3. string
-> 
-> 4. map
-> 
-> 5. Default Parameter
-> 
-> 6. vector 초기화
+## <center> cin, cout </center>
+ 
+## <center> Vector </center>
+ 
+## <center> String </center>
+
+## <center> Map </center>
+ 
+## <center> Default Parameter </center>
+ 

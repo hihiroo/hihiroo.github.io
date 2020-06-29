@@ -8,12 +8,9 @@ order: 1
 
 # Tips.
 
+<br>
 
-
-<br><br>
-
-
-# 🚩 [C++ 팁 목록 (6)](../posting/cate/cpp_tip.md)
+## 🚩 [C++ 팁 목록 (6)](../posting/cate/cpp_tip.md)
 
 > 1. cin, cout
 > 
@@ -29,7 +26,7 @@ order: 1
 
 <br><br>
 
-# 🚩 [C / C++ 팁 목록 (3)](../posting/cate/c_tip.md)
+## 🚩 [C / C++ 팁 목록 (3)](../posting/cate/c_tip.md)
 
 > 1. memset
 > 

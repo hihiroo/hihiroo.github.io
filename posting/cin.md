@@ -7,7 +7,7 @@ ____________
 
 <https://cupjoo.tistory.com/97>
 
-![image](img/inputTime.png)
+> ![image](img/inputTime.png)
 
 std::cin, std::cout 의 속도는 scanf보다 2배 이상 느립니다.  
 

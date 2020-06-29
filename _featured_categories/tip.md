@@ -6,6 +6,12 @@ menu: true
 order: 1
 ---
 
+# Tips.
+
+
+
+<br><br>
+
 
 # 🚩 [C++ 팁 목록 (6)](../posting/cate/cpp_tip.md)
 
@@ -23,7 +29,7 @@ order: 1
 
 <br><br>
 
-# 🚩 [C 팁 목록 (3)](../posting/cate/c_tip.md)
+# 🚩 [C / C++ 팁 목록 (3)](../posting/cate/c_tip.md)
 
 > 1. memset
 > 

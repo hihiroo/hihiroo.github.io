@@ -1,0 +1,37 @@
+
+2020.06.30   
+___
+
+# strlen 시간복잡도
+
+<http://www.cplusplus.com/reference/cstring/strlen/?kw=strlen>
+
+<br>
+문자열의 길이를 반환하는 strlen 함수의 시간복잡도는 문자열의 길이가 k일 때, O(1)이 아닌 O(k)입니다.
+
+
+```c++
+for(int i=0; i<n; i++) strlen(a);
+```
+따라서 이 코드의 시간복잡도는 O(nk)라고 할 수 있습니다.
+
+많은 초심자분들이 문자열의 길이만큼 반복문을 실행할 때 하는 실수는 아래 코드와 같이 strlen함수를 이용하는 것입니다.
+
+```c++
+ for(int i=0; i<strlen(a); i++) printf("%c",a[i]); 
+ ```
+
+ <br>
+이는 O(k^2)으로 비효율적인 방법입니다.
+
+반복문 안에서 O(k)의 strlen을 호출하는 것보다는 O(1)의 문자열 길이를 저장해놓은 변수를 이용하는 것이 효율적입니다.
+
+```c++
+#include<string.h>
+#include<stdio.h>
+int main(){
+  char a[100] = "hello world!";
+  int i, len = strlen(a);
+  for(i=0; i<len; i++) printf("%c",a[i]);
+}
+```

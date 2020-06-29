@@ -9,7 +9,7 @@ order: 1
 # Tips.
 
 
-## 🚩 [C++ 팁 목록 (6)](../posting/cate/cpp_tip.md)
+## 🚩 [C++ 팁 목록 (7)](../posting/cate/cpp_tip.md)
 
 > 1. cin, cout 속도
 > 
@@ -18,10 +18,12 @@ order: 1
 > 3. String += 과 +
 > 
 > 4. Map count
+>
+> 5. namespace
+>
+> 6. Default Parameter
 > 
-> 5. Default Parameter
-> 
-> 6. Vector 초기화
+> 7. Vector 초기화
 
 <br>
 

@@ -1,5 +1,5 @@
 
-# 🚩 C++ 팁 목록 (6)
+# 🚩 C++ 팁 목록 (7)
 
 ##  [cin, cout 속도](../cin.md)
 
@@ -18,7 +18,13 @@
 > Map에서 원소를 찾을 때
 
  
-##  Default Parameter 
+## [namespace](../namespace.md)
+> using namespace std; 의 역할
+
+
+## [Default Parameter](../default_parameter.md)
+> 디폴트 매개변수 
  
 
-## Vector 초기화
+## [Vector 초기화](../vector_init.md)
+> vector를 초기화 시키는 방법

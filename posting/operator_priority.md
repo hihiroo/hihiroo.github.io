@@ -6,7 +6,7 @@ ___
 
 <https://dojang.io/mod/page/view.php?id=188>
 
-> ![image](img/inputTime.png)
+> ![image](img/연산자_우선순위.png)
 
 <br>
 

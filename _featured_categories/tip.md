@@ -8,7 +8,6 @@ order: 1
 
 # Tips.
 
-<br>
 
 ## 🚩 [C++ 팁 목록 (6)](../posting/cate/cpp_tip.md)
 

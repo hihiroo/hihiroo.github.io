@@ -1,7 +1,3 @@
----
-layout: post
-title: cin, cout
----
 
 2020.06.29
 ____________
@@ -11,7 +7,7 @@ ____________
 
 ![image](img/inputTime.png)
 
-std::cin, std::cout 의 속도는 scanf보다 2배 이상 느립니다  
+std::cin, std::cout 의 속도는 scanf보다 2배 이상 느립니다.  
 
 scanf, printf 를 썼을 때 맞는 문제를 cin, cout을 쓰면 시간초과 걸리는 경우가 있으니 입력받는 데이터 개수에 유의해 사용해야합니다.  
 

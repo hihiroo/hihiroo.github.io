@@ -1,8 +1,8 @@
 
 2020.06.29   
-____________
+___
 
-# cin, cout
+# cin, cout 속도
 
 
 <https://cupjoo.tistory.com/97>

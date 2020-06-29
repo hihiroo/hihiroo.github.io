@@ -2,7 +2,7 @@
 2020.06.29   
 ___
 
-# String
+# String += 과 +
 
 
 <http://www.cplusplus.com/reference/string/string/operator+=/>

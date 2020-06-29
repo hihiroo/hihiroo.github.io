@@ -1,8 +1,8 @@
-# <center>🚩 C / C++ 팁 목록 (3) </center>
+# 🚩 C / C++ 팁 목록 (3) 
 
 
-## <center> memset <center>
-  
-## <center> strlen <center>
+## memset 
+
+## strlen 
  
-## <center> 연산자 우선순위 <center>
+## 연산자 우선순위

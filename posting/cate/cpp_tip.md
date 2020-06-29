@@ -1,13 +1,13 @@
 
-# <center> 🚩 C++ 팁 목록 (6) </center>
+# 🚩 C++ 팁 목록 (6)
 
-## <center> cin, cout </center>
+##  cin, cout 
  
-## <center> Vector </center>
+##  Vector 
  
-## <center> String </center>
+##  String 
 
-## <center> Map </center>
+##  Map 
  
-## <center> Default Parameter </center>
+##  Default Parameter 
  

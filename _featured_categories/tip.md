@@ -24,7 +24,7 @@ order: 1
 > 
 > 6. vector 초기화
 
-<br><br>
+<br>
 
 ## 🚩 [C / C++ 팁 목록 (3)](../posting/cate/c_tip.md)
 

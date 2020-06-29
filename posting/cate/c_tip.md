@@ -3,6 +3,6 @@
 
 ## memset 
 
-## strlen 
+## strlen 시간복잡도
  
 ## 연산자 우선순위

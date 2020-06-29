@@ -11,17 +11,17 @@ order: 1
 
 ## 🚩 [C++ 팁 목록 (6)](../posting/cate/cpp_tip.md)
 
-> 1. cin, cout
+> 1. cin, cout 속도
 > 
-> 2. vector
+> 2. Vector push_back()
 > 
-> 3. string
+> 3. String += 과 +
 > 
-> 4. map
+> 4. Map count
 > 
 > 5. Default Parameter
 > 
-> 6. vector 초기화
+> 6. Vector 초기화
 
 <br>
 
@@ -29,6 +29,6 @@ order: 1
 
 > 1. memset
 > 
-> 2. strlen
+> 2. strlen 시간복잡도
 > 
 > 3. 연산자 우선순위

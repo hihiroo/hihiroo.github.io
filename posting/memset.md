@@ -7,7 +7,7 @@ ___
 <http://www.cplusplus.com/reference/cstring/memset/?kw=memset>
 
 
-![image](img/memset.png)
+> ![image](img/memset.png)
 
 <br>
 

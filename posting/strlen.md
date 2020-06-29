@@ -21,7 +21,6 @@ for(int i=0; i<n; i++) strlen(a);
  for(int i=0; i<strlen(a); i++) printf("%c",a[i]); 
  ```
 
- <br>
 이는 O(k^2)으로 비효율적인 방법입니다.
 
 반복문 안에서 O(k)의 strlen을 호출하는 것보다는 O(1)의 문자열 길이를 저장해놓은 변수를 이용하는 것이 효율적입니다.

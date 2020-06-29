@@ -1,6 +1,6 @@
 
 2020.06.29   
-____________
+___
 
 # Vector
 
@@ -14,3 +14,15 @@ std::vector의 끝에 데이터를 추가하는 push_back은 일반적인 경우
 따라서 벡터에 추가할 데이터의 개수가 많을 때 push_back은 완벽히 O(1)이 아니기 때문에 시간초과를 유의하셔야 합니다!  
 
 push_back을 꼭 써야한다면 최대 데이터 크기만큼 벡터의 capacity를 정해놓는 방법으로 시간을 절약할 수 있습니다.
+
+```c++
+#include <iostream>
+#include <vector>
+using namespace std;
+int main(){
+ vector<int> v;
+ v.reserve(1000000);
+ cout << v.size(); // 0
+ cout << v.capacity(); // 1000000
+}
+```

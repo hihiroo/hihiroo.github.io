@@ -13,7 +13,7 @@ order: 3
 
 > 1. [cin, cout 속도](../tips/cpp_tip/_posts/2020-06-30-cin-속도.md)
 > 
-> 2. [Vector push_back()](../tips/cpp_tip/_posts/2020-06-30-Vector-push_back().md)
+> 2. [Vector push_back](../tips/cpp_tip/_posts/2020-06-30-Vector-push_back.md)
 > 
 > 3. [String += 과 +](../tips/cpp_tip/_posts/2020-06-30-String-+=-과-+.md)
 > 
@@ -31,7 +31,7 @@ order: 3
 
 <br>
 
-## 🚩 [C / C++ 팁 목록 (3)](../_featured_categories/c_tip.md)
+## 🚩 [C 팁 목록 (3)](../_featured_categories/c_tip.md)
 
 > 1. [memset](../tips/c_tip/_posts/2020-06-30-memset.md)
 > 

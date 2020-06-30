@@ -11,7 +11,7 @@ menu: false
 1. [cin, cout 속도](../tips/cpp_tip/_posts/2020-06-30-cin-속도.md)
 > cin, cout 입출력 속도
 
-2. [Vector push_back()](../tips/cpp_tip/_posts/2020-06-30-Vector-push_back().md)
+2. [Vector push_back](../tips/cpp_tip/_posts/2020-06-30-Vector-push_back.md)
 >vector push_back 연산의 Time complexity 
 
 3. [String += 과 +](../tips/cpp_tip/_posts/2020-06-30-String-+=-과-+.md)

@@ -1,4 +1,4 @@
-----
+---
 layout: post
 title: Default Parameter
 description: > 
@@ -7,6 +7,7 @@ noindex: true
 ---
 
 <https://boycoding.tistory.com/222>
+
 
 ```c++
 #include <iostream>

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Namespace
+description: >
+  using namespace std;의 기능
 noindex: true
 ---
 

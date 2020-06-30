@@ -1,6 +1,8 @@
 ----
 layout: post
 title: Default Parameter
+description: > 
+    디폴트 매개변수
 noindex: true
 ---
 

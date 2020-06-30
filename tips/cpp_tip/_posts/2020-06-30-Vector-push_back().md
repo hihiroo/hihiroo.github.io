@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Vector push_back()
+description: >
+    vector push_back 연산의 시간복잡도
 noindex: true
 ---
 

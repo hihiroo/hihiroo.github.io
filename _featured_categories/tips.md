@@ -9,23 +9,23 @@ order: 3
 # Tips.
 
 
-## 🚩 [C++ 팁 목록 (8)](../posting/cate/cpp_tip.md)
+## 🚩 [C++ 팁 목록 (8)](../_featured_categories/cpp_tip.md)
 
-> 1. [cin, cout 속도](../posting/cin.md)
+> 1. [cin, cout 속도](../tips/cpp_tip/_posts/2020-06-30-cin-속도.md)
 > 
-> 2. [Vector push_back()](../posting/vector_pb.md)
+> 2. [Vector push_back()](../tips/cpp_tip/_posts/2020-06-30-Vector-push_back().md)
 > 
-> 3. [String += 과 +](../posting/string.md)
+> 3. [String += 과 +](../tips/cpp_tip/_posts/2020-06-30-String-+=-과-+.md)
 > 
-> 4. [Map count](../posting/map_count.md)
+> 4. [Map count](../tips/cpp_tip/_posts/2020-06-30-Map-Count.md)
 >
-> 5. [namespace](../posting/namespace.md)
+> 5. [namespace](../tips/cpp_tip/_posts/2020-06-30-Namespace.md)
 >
-> 6. [Default Parameter](../posting/default_parameter.md)
+> 6. [Default Parameter](../tips/cpp_tip/_posts/2020-06-30-Default-Parameter.md)
 > 
-> 7. [Vector 초기화](../posting/vector_init.md)
+> 7. [Vector 초기화](../tips/cpp_tip/_posts/2020-06-30-Vector-초기화.md)
 >
-> 8. [Auto (Modern C++)](../posting/auto.md)
+> 8. [Auto (Modern C++)](../tips/cpp_tip/_posts/2020-06-30-Auto(C++11).md)
 > 
 
 
@@ -33,8 +33,8 @@ order: 3
 
 ## 🚩 [C / C++ 팁 목록 (3)](../posting/cate/c_tip.md)
 
-> 1. [memset](../posting/memset.md)
+> 1. [memset](../tips/c_tip/_posts/2020-06-30-memset.md)
 > 
-> 2. [strlen 시간복잡도](../posting/strlen.md)
+> 2. [strlen 시간복잡도](../tips/c_tip/_posts/2020-06-30-strlen-시간복잡도.md)
 > 
-> 3. [연산자 우선순위](../post)
+> 3. [연산자 우선순위](../tips/c_tip/_posts/2020-06-30-연산자-우선순위.md)

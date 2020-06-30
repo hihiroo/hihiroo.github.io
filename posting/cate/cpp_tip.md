@@ -1,5 +1,5 @@
 
-# 🚩 C++ 팁 목록 (7)
+# 🚩 C++ 팁 목록 (8)
 
 ##  [cin, cout 속도](../cin.md)
 
@@ -28,3 +28,7 @@
 
 ## [Vector 초기화](../vector_init.md)
 > vector를 초기화 시키는 방법
+
+
+## [Auto (Modern C++)](../auto.md)
+> 데이터 타입을 자동으로 추론하는 Auto

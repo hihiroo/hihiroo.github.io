@@ -1,0 +1,36 @@
+
+2020.06.30   
+___
+
+# Auto (Modern C++)
+
+<https://en.cppreference.com/w/cpp/language/auto>  
+<https://hwan-shell.tistory.com/83>
+
+C++11부터 지원하는 auto는 데이터 타입을 자동으로 추론합니다.
+
+
+변수를 선언할 때 데이터 타입 대신 auto를 쓰면, 컴파일러가 초기 값을 보고 데이터 타입을 정합니다.
+
+```c++
+#include <iostream>
+#include <vector>
+using namespace std;
+int main(){
+    auto a = 10;
+    cout << a; //10
+    vector<int> v = {1,2,3,4,5};
+    vector<int>::iterator it1 = v.begin();
+    auto it2 = v.begin();
+}
+```
+
+이터레이터처럼 데이터 타입명이 길 때는 auto를 사용하여 짧게 바꿀 수 있습니다.
+
+단, auto는 함수 반환형으로는 가능하지만 매개변수의 데이터 타입으로는 지원되지 않습니다.
+
+```c++
+auto f(int a, int b){
+    return a+b;
+}
+```

@@ -1,8 +1,10 @@
 
-2020.06.29   
-___
+---
+layout: post
+title: Vector push_back()
+noindex: true
+---
 
-# Vector push_back()
 
 
 <https://www.youtube.com/watch?v=SaZ3jf6gxn4>

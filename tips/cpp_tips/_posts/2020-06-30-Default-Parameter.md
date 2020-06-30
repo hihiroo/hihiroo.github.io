@@ -1,7 +1,8 @@
-2020.06.29   
-___
-
-# Default Parameter
+----
+layout: post
+title: Default Parameter
+noindex: true
+---
 
 <https://boycoding.tistory.com/222>
 

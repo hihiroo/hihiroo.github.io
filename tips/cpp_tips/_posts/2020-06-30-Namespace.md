@@ -1,7 +1,8 @@
-2020.06.29   
-___
-
-# namespace
+---
+layout: post
+title: Namespace
+noindex: true
+---
 
 <http://www.cplusplus.com/doc/oldtutorial/namespaces/>
 <https://en.cppreference.com/w/cpp/header/iostream>

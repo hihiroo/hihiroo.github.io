@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: page
 title: History
 slug: history
 menu: true

@@ -29,5 +29,5 @@ menu: false
 7. [Vector 초기화](../tips/cpp_tip/_posts/2020-06-30-Vector-초기화.md)
 > vector를 초기화 시키는 방법
 
-1. [Auto (Modern C++)](../tips/cpp_tip/_posts/2020-06-30-Auto(C++11).md)
+1. [Auto (Modern C++)](../tips/cpp_tip/_posts/2020-06-30-Auto.md)
 > 데이터 타입을 자동으로 추론하는 Auto

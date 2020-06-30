@@ -25,7 +25,7 @@ order: 3
 > 
 > 7. [Vector 초기화](../tips/cpp_tip/_posts/2020-06-30-Vector-초기화.md)
 >
-> 8. [Auto (Modern C++)](../tips/cpp_tip/_posts/2020-06-30-Auto(C++11).md)
+> 8. [Auto (Modern C++)](../tips/cpp_tip/_posts/2020-06-30-Auto.md)
 > 
 
 

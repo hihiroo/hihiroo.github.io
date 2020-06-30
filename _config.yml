@@ -54,7 +54,7 @@ menu:
   - title:             History
     url:               /history/
   - title:             Tips
-    url:               /tips/
+    url:               /tips/index
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 # legal:
@@ -230,7 +230,7 @@ collections:
     permalink:         /tag-:name/
     output:            true
 
-  tips:
+  projects:
     permalink:         /projects/:path/
     output:            true
 

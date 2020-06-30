@@ -1,7 +1,6 @@
 ---
 layout: list
-title: Tip
-slug: tips for c/c++ users
+title: Tips
 menu: true
 order: 1
 ---
@@ -37,4 +36,4 @@ order: 1
 > 
 > 2. [strlen 시간복잡도](../posting/strlen.md)
 > 
-> 3. [연산자 우선순위](../posting/operator_priority.md)
+> 3. [연산자 우선순위](../post)

@@ -1,8 +1,9 @@
 ---
 layout: list
 title: Tips
+slug: tips
 menu: true
-order: 1
+order: 3
 ---
 
 # Tips.

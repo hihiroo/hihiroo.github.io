@@ -1,7 +1,7 @@
 ---
 layout: list
-title: This is me
-slug: MINKYEONG SHIN
+title: Info
+slug: info
 menu: true
 order: 1
 ---

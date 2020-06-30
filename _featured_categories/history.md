@@ -3,7 +3,7 @@ layout: list
 title: History
 slug: history
 menu: true
-order: 1
+order: 2
 
 ---
 ![image](/assets/img/blog/me2.jpg)

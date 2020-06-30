@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Vector push_back()

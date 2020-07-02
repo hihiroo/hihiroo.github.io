@@ -31,7 +31,7 @@ order: 3
 
 <br>
 
-## 🚩 [C 팁 목록 (3)](../_featured_categories/c_tip.md)
+## 🚩 [C 팁 목록 (4)](../_featured_categories/c_tip.md)
 
 > 1. [memset](../tips/c_tip/_posts/2020-06-30-memset.md)
 > 

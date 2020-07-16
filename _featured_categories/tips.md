@@ -31,7 +31,7 @@ order: 3
 
 <br>
 
-## 🚩 [C 팁 목록 (4)](../_featured_categories/c_tip.md)
+## 🚩 [C 팁 목록 (6)](../_featured_categories/c_tip.md)
 
 > 1. [memset](../tips/c_tip/_posts/2020-06-30-memset.md)
 > 
@@ -40,4 +40,7 @@ order: 3
 > 3. [연산자 우선순위](../tips/c_tip/_posts/2020-06-30-연산자-우선순위.md)
 > 
 > 4. [함수 매개변수 평가 순서](../tips/c_tip/_posts/2020-07-02-함수-매개변수-평가-순서.md)
->
+> 
+> 5. [출력과 동시에 프로그램 종료하기](../tips/c_tip/_posts/2020-07-16-출력과-동시에-프로그램-종료하기.md)
+> 
+> 6. [런타임-에러-발생-원인-정리](../tips/c_tip/_posts/2020-07-16-런타임-에러-발생-원인-정리.md)

@@ -31,4 +31,4 @@ menu: false
 > 런타임 에러가 발생하는 원인 몇 가지
 
 7. [Short circuit evaluation](../tips/c_tip/_posts/2020-07-24-Short-circuit-evaluation.md)
-> 논리 연산자 &&, ||을 쓸 때 주의할 점
+> 논리 연산자 &&, `||`을 쓸 때 주의할 점

@@ -6,7 +6,7 @@ menu: false
 ---
 
 
-# 🚩 C 팁 목록 (6) 
+# 🚩 C 팁 목록 (7) 
 
 1. [memset](../tips/c_tip/_posts/2020-06-30-memset.md)
 > memset으로 배열 초기화하는 법
@@ -28,4 +28,7 @@ menu: false
 > 한 줄에 return과 출력 동시에 하기
 
 6. [런타임 에러 발생 원인 정리](../tips/c_tip/_posts/2020-07-16-런타임-에러-발생-원인-정리.md)
-   > 런타임 에러가 발생하는 원인 몇 가지
+> 런타임 에러가 발생하는 원인 몇 가지
+
+7. [Short circuit evaluation](../tips/c_tip/_posts/2020-07-24-Short-circuit-evaluation.md)
+> 논리 연산자 &&, ||을 쓸 때 주의할 점

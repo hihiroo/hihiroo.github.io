@@ -9,7 +9,7 @@ order: 3
 # Tips.
 
 
-## 🚩 [C++ 팁 목록 (8)](../_featured_categories/cpp_tip.md)
+## 🚩 [C++ 팁 목록 (9)](../_featured_categories/cpp_tip.md)
 
 > 1. [cin, cout 속도](../tips/cpp_tip/_posts/2020-06-30-cin-속도.md)
 > 
@@ -26,8 +26,9 @@ order: 3
 > 7. [Vector 초기화](../tips/cpp_tip/_posts/2020-06-30-Vector-초기화.md)
 >
 > 8. [Auto (Modern C++)](../tips/cpp_tip/_posts/2020-06-30-Auto.md)
-> 
-
+>
+> 9. [unique](../tips/cpp_tip/_posts/2020-08-15-unique.md)
+>
 
 <br>
 

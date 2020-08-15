@@ -6,7 +6,7 @@ menu: false
 ---
 
 
-## 🚩 [C++ 팁 목록 (8)](../_featured_categories/cpp_tip.md)
+## 🚩 [C++ 팁 목록 (9)](../_featured_categories/cpp_tip.md)
 
 1. [cin, cout 속도](../tips/cpp_tip/_posts/2020-06-30-cin-속도.md)
 > cin, cout 입출력 속도
@@ -29,5 +29,8 @@ menu: false
 7. [Vector 초기화](../tips/cpp_tip/_posts/2020-06-30-Vector-초기화.md)
 > vector를 초기화 시키는 방법
 
-1. [Auto (Modern C++)](../tips/cpp_tip/_posts/2020-06-30-Auto.md)
+8. [Auto (Modern C++)](../tips/cpp_tip/_posts/2020-06-30-Auto.md)
 > 데이터 타입을 자동으로 추론하는 Auto
+
+9. [unique](../tips/cpp_tip/_posts/2020-08-15-unique.md)
+> 벡터의 중복 원소를 제거할 때 쓰는 unique

@@ -6,7 +6,7 @@ menu: false
 ---
 
 
-## 🚩 [C++ 팁 목록 (9)](../_featured_categories/cpp_tip.md)
+## 🚩 [C++ 팁 목록 (11)](../_featured_categories/cpp_tip.md)
 
 1. [cin, cout 속도](../tips/cpp_tip/_posts/2020-06-30-cin-속도.md)
 > cin, cout 입출력 속도
@@ -34,3 +34,9 @@ menu: false
 
 9. [unique](../tips/cpp_tip/_posts/2020-08-15-unique.md)
 > 벡터의 중복 원소를 제거할 때 쓰는 unique
+
+10. [cout 소수점 고정](../tips/cpp_tip/_posts/2020-08-24-cout-소수점-고정.md)
+> 실수의 소수점 자리수를 고정하는 법
+
+11. [벡터 생성자](../tips/cpp_tip/2020-08-24-벡터-생성자.md)
+> 배열을 벡터로 복사하는 방법

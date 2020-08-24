@@ -6,7 +6,7 @@ menu: false
 ---
 
 
-# 🚩 C 팁 목록 (7) 
+# 🚩 C 팁 목록 (8) 
 
 1. [memset](../tips/c_tip/_posts/2020-06-30-memset.md)
 > memset으로 배열 초기화하는 법
@@ -32,3 +32,6 @@ menu: false
 
 7. [Short circuit evaluation](../tips/c_tip/_posts/2020-07-24-Short-circuit-evaluation.md)
 > 논리 연산자 &&, `||`을 쓸 때 주의할 점
+
+8. [매크로 정의](../tips/c_tip/_posts/2020-08-24-매크로-정의.md)
+> #define

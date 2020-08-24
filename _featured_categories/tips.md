@@ -9,7 +9,7 @@ order: 3
 # Tips.
 
 
-## 🚩 [C++ 팁 목록 (9)](../_featured_categories/cpp_tip.md)
+## 🚩 [C++ 팁 목록 (11)](../_featured_categories/cpp_tip.md)
 
 > 1. [cin, cout 속도](../tips/cpp_tip/_posts/2020-06-30-cin-속도.md)
 > 
@@ -29,10 +29,14 @@ order: 3
 >
 > 9. [unique](../tips/cpp_tip/_posts/2020-08-15-unique.md)
 >
+> 10. [cout 소수점 고정](../tips/cpp_tip/_posts/2020-08-24-cout-소수점-고정.md)
+>
+> 11. [벡터 생성자](../tips/cpp_tip/2020-08-24-벡터-생성자.md)
+>
 
 <br>
 
-## 🚩 [C 팁 목록 (7)](../_featured_categories/c_tip.md)
+## 🚩 [C 팁 목록 (8)](../_featured_categories/c_tip.md)
 
 > 1. [memset](../tips/c_tip/_posts/2020-06-30-memset.md)
 > 
@@ -47,4 +51,5 @@ order: 3
 > 6. [런타임 에러 발생 원인 정리](../tips/c_tip/_posts/2020-07-16-런타임-에러-발생-원인-정리.md)
 > 
 > 7. [Short circuit evaluation](../tips/c_tip/_posts/2020-07-24-Short-circuit-evaluation.md)
-> 
+>
+> 8. [매크로 정의](../tips/c_tip/_posts/2020-08-24-매크로-정의.md)

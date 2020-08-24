@@ -31,7 +31,7 @@ order: 3
 >
 > 10. [cout 소수점 고정](../tips/cpp_tip/_posts/2020-08-24-cout-소수점-고정.md)
 >
-> 11. [벡터 생성자](../tips/cpp_tip/2020-08-24-벡터-생성자.md)
+> 11. [벡터 생성자](../tips/cpp_tip/_posts/2020-08-24-벡터-생성자.md)
 >
 
 <br>

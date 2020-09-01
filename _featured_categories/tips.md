@@ -9,7 +9,7 @@ order: 3
 # Tips.
 
 
-## 🚩 [C++ 팁 목록 (11)](../_featured_categories/cpp_tip.md)
+## 🚩 [C++ 팁 목록 (12)](../_featured_categories/cpp_tip.md)
 
 > 1. [cin, cout 속도](../tips/cpp_tip/_posts/2020-06-30-cin-속도.md)
 > 
@@ -33,6 +33,8 @@ order: 3
 >
 > 11. [벡터 생성자](../tips/cpp_tip/_posts/2020-08-24-벡터-생성자.md)
 >
+> 12. [공백 포함 문자열 입력받기](../tips/cpp_tip/_posts/2020-09-01-공백-포함-문자열-입력받기.md)
+
 
 <br>
 

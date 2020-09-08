@@ -6,7 +6,7 @@ menu: false
 ---
 
 
-# 🚩 C 팁 목록 (8) 
+# 🚩 C 팁 목록 (9) 
 
 1. [memset](../tips/c_tip/_posts/2020-06-30-memset.md)
 > memset으로 배열 초기화하는 법
@@ -35,3 +35,6 @@ menu: false
 
 8. [매크로 정의](../tips/c_tip/_posts/2020-08-24-매크로-정의.md)
 > #define
+
+9. [실수 비교](../tips/c_tip/_posts/2020-09-08-실수-비교.md) 
+> 실수끼리의 비교에서 '=='은 지양해야합니다. 

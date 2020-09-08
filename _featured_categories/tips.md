@@ -38,7 +38,7 @@ order: 3
 
 <br>
 
-## 🚩 [C 팁 목록 (8)](../_featured_categories/c_tip.md)
+## 🚩 [C 팁 목록 (9)](../_featured_categories/c_tip.md)
 
 > 1. [memset](../tips/c_tip/_posts/2020-06-30-memset.md)
 > 
@@ -55,3 +55,5 @@ order: 3
 > 7. [Short circuit evaluation](../tips/c_tip/_posts/2020-07-24-Short-circuit-evaluation.md)
 >
 > 8. [매크로 정의](../tips/c_tip/_posts/2020-08-24-매크로-정의.md)
+>
+> 9. [실수 비교](../tips/c_tip/_posts/2020-09-08-실수-비교.md)

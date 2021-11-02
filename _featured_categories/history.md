@@ -31,7 +31,9 @@ order: 2
 >
 >**2021.09 ~**　  0&1 알고리즘 스터디 멘토
 >
->**2021.09 ~**　  [0&1 알고리즘 대회 2021 ZOAC 출제](acmicpc.net/category/418)
+>**2021.09 ~**　  [ROS 스터디 진행](https://mksmk.notion.site/ROS-654b052db9bc471196e75f3ae276e3c1)
+>
+>**2021.09 ~**　  [0&1 알고리즘 대회 2021 ZOAC 출제](https://acmicpc.net/category/418)
 
 
 ## 2020년

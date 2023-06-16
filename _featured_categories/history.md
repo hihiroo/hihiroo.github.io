@@ -9,6 +9,8 @@ order: 2
 ![image](../assets/img/blog/me2.jpg)
 
 ## 2023년
+>**2023.01 - 2023.03** 　KAIST InfoLab 겨울학기 학부 인턴십
+>
 >**2023.02** 　한양대학교 ERICA 소프트웨어학부 컴퓨터전공 졸업
 >
 

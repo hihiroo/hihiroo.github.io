@@ -8,10 +8,25 @@ order: 2
 ---
 ![image](../assets/img/blog/me2.jpg)
 
+## 2026
+> **2026.01 - 2026.02** 　현대자동차그룹 소프티어 부트캠프 7기 [데이터 엔지니어링 코스 수료](https://github.com/softeerbootcamp-7th/DE-Team2-DEng2)
+
+## 2025
+> **2025.11** 　[CIKM'25](https://cikm2025.org/) Short Paper Accepted (2저자)
+>
+> **2025.08** 　한양대학교 대학원 컴퓨터 소프트웨어학과 석사 졸업
+>
+> **2025.07** 　[KCC 2025](https://www.kiise.or.kr/conference/kcc/2025/) 포스터 발표
+
+## 2024
+> **2024.08** 　서울대학교 주최 가속기 프로그래밍 여름학교 고급과정 수료
+
 ## 2023년
->**2023.09** 　한양대학교 BigDasLab, 그래프 엔진팀 소속
+>**2023.08** 　[한양대학교 BigDasLab](https://bigdas.hanyang.ac.kr/), 그래프 엔진팀 소속
 >
 >**2023.08** 　한양대학교 대학원 컴퓨터 소프트웨어학과 입학
+>
+>**2023.06 - 2023.09** 　[0&1 알고리즘 대회 2023 ZOAC 출제](https://www.acmicpc.net/contest/view/1124)
 >
 >**2023.01 - 2023.03** 　KAIST InfoLab 겨울학기 학부 인턴십
 >
@@ -29,13 +44,13 @@ order: 2
 >
 >**2022.07 - 2022.08** 　한국전자통신연구원(ETRI) 자율주행 연구실 연구연수생
 >
->**2022.09 - 2022.12** 　0&1 알고리즘 대회 2022 ZOAC 출제 및 운영위원장
+>**2022.09 - 2022.12** 　[0&1 알고리즘 대회 2022 ZOAC 출제 및 운영위원장](https://www.acmicpc.net/contest/view/921)
 >
 
 ## 2021년
 >**2021.01 - 2021.12** 　한양대학교 ERICA 알고리즘 학회 0&1 회장
 >
->**2021.01 - 2021.07**　 한양대학교 ERICA 자작자동차 학회 FOURTOR 자율주행 팀장
+>**2021.01 - 2021.12**　 한양대학교 ERICA 자작자동차 학회 FOURTOR 자율주행 팀장
 >
 >**2021.01 - 2021.04**　 자율주행을 위한 차선인식 스터디
 >
@@ -53,7 +68,7 @@ order: 2
 >
 >**2021.09 - 2021.12**　  [ROS 스터디 진행](https://mksmk.notion.site/ROS-654b052db9bc471196e75f3ae276e3c1)
 >
->**2021.09 - 2021.12**　  [0&1 알고리즘 대회 2021 ZOAC 출제](https://acmicpc.net/category/418)
+>**2021.09 - 2021.12**　  [0&1 알고리즘 대회 2021 ZOAC 출제](https://www.acmicpc.net/contest/view/735)
 >
 >**2021.11**　  한양대학교 ERICA SW/ICT 학술제, "자율주행 인지 시스템 구축" 최우수상 수상
 
@@ -88,7 +103,7 @@ order: 2
 >
 >**2019.07** 　경인지역 6개대학 연합 프로그래밍 경시대회 shake! 21위
 >
->**2019.08** 　[Baekjoon Online Judge](https://www.acmicpc.net/) 1000문제 달성
+>**2019.08** 　[Baekjoon Online Judge](https://www.acmicpc.net/user/mksmk606) 1000문제 달성
 >
 >**2019.10** 　ACM-ICPC 본선 진출
 >
